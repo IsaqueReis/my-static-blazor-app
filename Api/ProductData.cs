@@ -21,22 +21,22 @@ namespace Api
             new Product
             {
                 Id = 10,
-                Name = "Strawberries",
-                Description = "16oz package of fresh organic strawberries",
+                Name = "Morangos",
+                Description = "Bandeja contendo 10 morangos deliciosos",
                 Quantity = 1
             },
             new Product
             {
                 Id = 20,
-                Name = "Sliced bread",
-                Description = "Load of fresh sliced wheat bread",
+                Name = "Pão de forma",
+                Description = "Pão de forma fresquinho",
                 Quantity = 1
             },
             new Product
             {
                 Id = 30,
-                Name = "Apples",
-                Description = "Bag of 7 fresh McIntosh apples",
+                Name = "Maçãs",
+                Description = "Shinigamis adoram maçãs",
                 Quantity = 1
             }
         };
